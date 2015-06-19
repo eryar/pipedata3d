@@ -1,0 +1,26 @@
+pipedata3d - piping component data and dimension in 3d.
+Copyright (C) 2015  Shing Liu
+
+pipedata3d is free software. If you think it is useful, 
+you can donate for the author.
+
+This software is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Portions of this software:
+Open CASCADE Technology
+  Copyright (c) 1993-1999 Matra Datavision. All rights reserved.
+  Copyright (c) 1999-2015 by OPEN CASCADE S.A.S. All rights reserved.
+
+FreeType
+  Copyright 1996-2002, 2006 The FreeType Project. All rights reserved.
+
+TclTk
+  TclTk is copyrighted by the Regents of the University of California,
+  Sun Microsystems, Inc., Scriptics Corporation, ActiveState
+  Corporation and other parties.
+
+Feedback:
+Please send any bug report, suggestion, question and comment 
+to the author at following address: eryar@163.com
