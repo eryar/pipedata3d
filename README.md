@@ -35,11 +35,11 @@ There are also some hotkeys for the view operations:
 * L: view from left;
 
 ##Customisation Issues
-You can build your standard piping components by Tcl scripts, put these Tcl script file to the *stdlib* folder,
+You can build your standard piping components by Tcl scripts, put these Tcl script file to the *stdlib* folder, <br>
 ![Standard Library Data] (http://www.cppblog.com/images/cppblog_com/eryar/Windows-Live-Writer/pipedata3d-User-Guide_12B8C/wps_clip_image-19873_2.png "Standard Library Data") <br>
 Figure 3. Standard Library Data
 
-You can download the Tcl scripts from github and put them in to the *stdlib* folder:
+You can download the Tcl scripts from github and put them in to the *stdlib* folder: <br>
 https://github.com/eryar/pipedata3d
 
 ## Piping Component
